@@ -23,7 +23,7 @@
 }
 
 @font-face {
-    font-family: Satoshi;
+    font-family: "Satoshi";
     src: url(../fonts/satoshi-Regular.woff2);
     font-weight: 400;
 }
